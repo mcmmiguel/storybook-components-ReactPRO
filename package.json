@@ -1,7 +1,7 @@
 {
   "name": "mcm-custom-component",
   "private": false,
-  "version": "0.0.1-rc2",
+  "version": "0.1.0",
   "type": "module",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -67,6 +67,5 @@
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
   },
-  "readme": "ERROR: No README data found!",
-  "_id": "my-story-book@0.0.0"
+  "readme": "ERROR: No README data found!"
 }
